@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Anyar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|c:\\users\\user\\desktop\\anyar\\anyar\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|c:\\users\\user\\desktop\\anyar\\anyar\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|c:\\users\\user\\desktop\\anyar\\anyar\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|c:\\users\\user\\desktop\\anyar\\anyar\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD033707-DF60-468C-8BF3-FB59695E9015}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:06:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:03:06.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:28:58.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:40:29.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
